@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+feceb811d3b249d32f631c03c51c25fd479a5479 refs/remotes/origin/master
+08daa684b74f39d3fdb39c6083a168ede7143e54 refs/remotes/origin/ot
+cd74b45fc15a183f9375cb9978fbb6bf5a8f0a89 refs/remotes/origin/polytomy-count

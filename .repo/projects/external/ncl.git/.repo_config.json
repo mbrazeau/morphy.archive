@@ -1,0 +1,29 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.origin.url": [
+    "https://github.com/mtholder/ncl"
+  ], 
+  "remote.origin.projectname": [
+    "ncl"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "core.ignorecase": [
+    "true"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ], 
+  "core.precomposeunicode": [
+    "true"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

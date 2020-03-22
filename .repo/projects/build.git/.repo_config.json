@@ -1,0 +1,35 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.origin.url": [
+    "https://github.com/mbrazeau/buildMorphy"
+  ], 
+  "remote.origin.projectname": [
+    "buildMorphy"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "branch.master.remote": [
+    "origin"
+  ], 
+  "core.ignorecase": [
+    "true"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ], 
+  "core.precomposeunicode": [
+    "true"
+  ], 
+  "branch.master.merge": [
+    "refs/heads/master"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}
