@@ -1,6 +1,0 @@
-3c6de4c0100c303da78fbbfdb0d0be8f99345899 04f7959b21600a56529cd06692cba981e39a0cc4 Martin Brazeau <martin.brazeau@gmail.com> 1584621764 +0000	checkout: moving from 3c6de4c0100c303da78fbbfdb0d0be8f99345899 to dev
-04f7959b21600a56529cd06692cba981e39a0cc4 3c6de4c0100c303da78fbbfdb0d0be8f99345899 Martin Brazeau <martin.brazeau@gmail.com> 1584621770 +0000	checkout: moving from dev to master
-3c6de4c0100c303da78fbbfdb0d0be8f99345899 04f7959b21600a56529cd06692cba981e39a0cc4 Martin Brazeau <martin.brazeau@gmail.com> 1584621776 +0000	merge dev: Fast-forward
-04f7959b21600a56529cd06692cba981e39a0cc4 8dcd90fe12df91e5df8d9170153da1439b60ffdf Martin Brazeau <martin.brazeau@gmail.com> 1584810400 +0000	commit: change stupid version naming
-8dcd90fe12df91e5df8d9170153da1439b60ffdf 04f7959b21600a56529cd06692cba981e39a0cc4 Martin Brazeau <martin.brazeau@gmail.com> 1584811076 +0000	checkout: moving from master to dev
-04f7959b21600a56529cd06692cba981e39a0cc4 8dcd90fe12df91e5df8d9170153da1439b60ffdf Martin Brazeau <martin.brazeau@gmail.com> 1584811163 +0000	merge master: Fast-forward
