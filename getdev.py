@@ -4,6 +4,13 @@
 # Morphy project if you would like to build a bleeding-edge development
 # version. It also simplifies the entire process of cloning and building,
 # particularly for any users who do not have Google's repo tool installed.
+#
+# To clone all the directories:
+#   $ python getdev.py
+#
+# To pull development versions of mpl and nui:
+#   $ python getdev.py update
+#
 
 import  sys, os, getopt, multiprocessing, platform, shutil
 from subprocess import call
